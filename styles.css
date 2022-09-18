@@ -46,7 +46,10 @@ a,
 
 .right{
     justify-content: flex-end;
+    margin: auto auto;
     
+    mar
+    gap:20px;
 }
 
 button{
@@ -89,15 +92,19 @@ button{
 .card img{
     border-radius: 25px;
     border: 2px solid #3882F6;
-    width: 120px;
-    height: 120px;
+    width: 220px;
+    height: 220px;
 }
 
 .right img{
     background-color: gray;
     border: 2px solid white;
-    width: 120px;
-    height: 120px;
+
+    height:200px;
+    border-radius: 10px;
+    width:200px;
+
+   
     
 }
 
